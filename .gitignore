@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/VehicleVarietyPack/Blueprints/Pickup/DA_PU_TireConfig.uasset
+Content/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.uasset
