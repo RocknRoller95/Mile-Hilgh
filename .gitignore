@@ -74,3 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Content/VehicleVarietyPack/Blueprints/Pickup/DA_PU_TireConfig.uasset
 Content/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.uasset
+Content/SpringLandscape/Maps/Overview/Overview.umap
+Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.uasset
